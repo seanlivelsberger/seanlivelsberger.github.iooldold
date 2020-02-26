@@ -2,7 +2,7 @@
 #
 # This config file is meant for settings that affect your whole blog.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
@@ -17,11 +17,14 @@ url: "https://seanlivelsberger.github.io" # the base hostname & protocol for you
 baseurl: "/seanlivelsberger.github.io" # the subpath of your site, e.g. "/blog".  WARNING: if you are not using a custom domain, the baseurl *must* be set to your repo name.
 
 # Email and twitter are optional:
-email: 
-twitter_username: "fastdotai"
+email: "sean.livelsberger@gmail.com"
+twitter_username: "seanlivelsberg"
+instagram_username: "sean.livelsberger"
+linkedin_username: "seanlivelsberger"
+
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math:
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
 show_description: true
