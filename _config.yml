@@ -14,10 +14,10 @@ github_repo: "seanlivelsberger.github.io"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 url: "https://seanlivelsberger.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/seanlivelsberger.github.io" # the subpath of your site, e.g. "/blog".  WARNING: if you are not using a custom domain, the baseurl *must* be set to your repo name.
+baseurl: "" # the subpath of your site, e.g. "/blog".  WARNING: if you are not using a custom domain, the baseurl *must* be set to your repo name.
 
 # Email and twitter are optional:
-email: "sean.livelsberger@gmail.com"
+email:
 twitter_username: "seanlivelsberg"
 instagram_username: "sean.livelsberger"
 linkedin_username: "seanlivelsberger"
@@ -27,7 +27,7 @@ linkedin_username: "seanlivelsberger"
 use_math:
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
-show_description: false
+show_description: true
 
 # Set this to true to display image previews on home page, if they exist
 show_image: true
