@@ -11,8 +11,8 @@ var documents = [{
     "body": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
     }, {
     "id": 2,
-    "url": "https://seanlivelsberger.github.io/about/",
-    "title": "About Me",
+    "url": "https://seanlivelsberger.github.io/resume/",
+    "title": "Resume",
     "body": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
     }, {
     "id": 3,
