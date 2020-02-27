@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![](images/about_photo.jpeg )
+![](images/about_photo.jpeg)
 
 ## Current
 
@@ -20,18 +20,19 @@ I previously worked as a Director of Advanced Analytics at the Chicago-based mar
  <li>Paddleboarding</li>
  <li>Bouldering</li>
  <li>Bike Rides</li>
+ <li>Economics</li>
  <li>Learning</li>
  <li>Strength Training</li>
  <li>The NBA</li>
- <li>Pie</li>
  <li>Sous Vide</li>
- <li>Napa Wine</li>
+ <li>Wineries</li>
  <li>Bar trivia</li>
  <li>Cooking</li>
  <li>BBQ</li>
  <li>Beer gardens</li>
  <li>Midnight Movies</li>
  <li>Halo</li>
+ <li>Virtual Reality</li>
  <li>Visiting friends around the country</li>
  <li>Podcasts and documentaries covering scams</li>
  <li>Dining all across the city</li>
