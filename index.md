@@ -8,5 +8,8 @@ search: exclude
 
 ![](images/home_photo.jpeg )
 
+# Resume
+
+Download the most up to date version of my resume [here](pdfs/seanlivelsberger_resume.pdf).
 
 # Posts
