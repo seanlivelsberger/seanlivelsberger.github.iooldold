@@ -21,7 +21,7 @@ Bachelor of Science in Mathematics, Bachelor of Arts in Economics
 Dean's List 2012-2013  
 GPA: 3.24  
 
-## Machine Learning
+<!-- ## Machine Learning
 
 ## Domain Knowledge
 
@@ -35,4 +35,4 @@ GPA: 3.24
 
 ## Analysis
 
-## Software Engineering
+## Software Engineering -->
