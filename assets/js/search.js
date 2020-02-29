@@ -13,7 +13,7 @@ var documents = [{
     "id": 2,
     "url": "https://seanlivelsberger.github.io/expertise/",
     "title": "Expertise",
-    "body": ""
+    "body": "Download the most up to date version of my resume here. Academic: Georgia Institute of TechnologyExpected 2021Master of Science in Computer ScienceSpecialization: Machine LearningGPA: 4. 00 The University of Chicago2013Bachelor of Science in Mathematics, Bachelor of Arts in EconomicsDean’s List 2012-2013GPA: 3. 24 Machine Learning: Domain Knowledge: Business Acumen: Experimentation: Data Visualization: Data Engineering: Analysis: Software Engineering: "
     }, {
     "id": 3,
     "url": "https://seanlivelsberger.github.io/categories/",
