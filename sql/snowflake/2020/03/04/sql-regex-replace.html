@@ -9,13 +9,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="How to manage messy strings when you want quality numeric data." />
 <meta property="og:description" content="How to manage messy strings when you want quality numeric data." />
-<link rel="canonical" href="https://seanlivelsberger.github.io/sql/2020/03/04/sql-regex-replace.html" />
-<meta property="og:url" content="https://seanlivelsberger.github.io/sql/2020/03/04/sql-regex-replace.html" />
+<link rel="canonical" href="https://seanlivelsberger.github.io/sql/snowflake/2020/03/04/sql-regex-replace.html" />
+<meta property="og:url" content="https://seanlivelsberger.github.io/sql/snowflake/2020/03/04/sql-regex-replace.html" />
 <meta property="og:site_name" content="Sean Livelsberger" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-03-04T00:00:00-06:00" />
 <script type="application/ld+json">
-{"description":"How to manage messy strings when you want quality numeric data.","@type":"BlogPosting","url":"https://seanlivelsberger.github.io/sql/2020/03/04/sql-regex-replace.html","headline":"SQL: REGEX_REPLACE","dateModified":"2020-03-04T00:00:00-06:00","datePublished":"2020-03-04T00:00:00-06:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://seanlivelsberger.github.io/sql/2020/03/04/sql-regex-replace.html"},"@context":"https://schema.org"}</script>
+{"description":"How to manage messy strings when you want quality numeric data.","@type":"BlogPosting","headline":"SQL: REGEX_REPLACE","dateModified":"2020-03-04T00:00:00-06:00","url":"https://seanlivelsberger.github.io/sql/snowflake/2020/03/04/sql-regex-replace.html","datePublished":"2020-03-04T00:00:00-06:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://seanlivelsberger.github.io/sql/snowflake/2020/03/04/sql-regex-replace.html"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -88,6 +88,9 @@
       <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
       
         <a class="category-tags-link" href="/categories/#sql">sql</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/categories/#snowflake">snowflake</a>
         
       
       </p>
@@ -147,7 +150,7 @@ One strategy for managing these uninterpretable characters would be to do a form
 
 <p>The usage of NULLIF here adds an extra layer of cleanliness to your data clean up. It is specifically relevant due to the fact that the replace action is insert the empty string. If a messy field value consists exclusively of non-numeric characters (e.g. just a decimal) it would leave an empty string final value after our replacement operation. This is less that ideal for two reasons. For one, depending on the SQL engine, the empty string may actually not convert to a numeric in the coercion operation. More importantly though, the existence of empty string numeric values may not be perceptible if the dataset is sufficiently large. If one then goes to count non-null values under the assumption that values are either legitimate or null, one could potentially come away with an incorrect understanding of their data.</p>
 
-  </div><a class="u-url" href="/sql/2020/03/04/sql-regex-replace.html" hidden></a>
+  </div><a class="u-url" href="/sql/snowflake/2020/03/04/sql-regex-replace.html" hidden></a>
 </article>
       </div>
     </main><footer class="site-footer h-card">
