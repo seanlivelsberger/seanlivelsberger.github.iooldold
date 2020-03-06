@@ -12,4 +12,9 @@ search: exclude
 
 Download the most up to date version of my resume [here](pdfs/seanlivelsberger_resume.pdf).
 
+# Featured
+
+* [Built In Chicago: What do data teams actually do? 8 Chicago companies weigh in](https://www.builtinchicago.org/2017/07/20/what-chicago-data-teams-do)
+* [KDnuggests: Strata Data Conference, NYC – Key Trends and Highlights](https://www.kdnuggets.com/2017/10/strata-data-nyc-key-trends-highlights.html)
+
 # Posts
