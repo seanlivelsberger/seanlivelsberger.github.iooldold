@@ -1,7 +1,7 @@
 ---
 toc: true
 description: How to manage messy strings when you want quality numeric data.
-categories: [sql]
+categories: [sql,snowflake]
 ---
 
 # SQL: REGEX_REPLACE
