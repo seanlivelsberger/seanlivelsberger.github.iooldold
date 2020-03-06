@@ -1,7 +1,7 @@
 ---
 toc: true
 description: How to find the minimum shared date between overlapping date ranges.
-categories: [sql,snowflake]
+categories: [sql,snowflake,vertica,postgres]
 ---
 
 # SQL: Minimum Shared Date Between Date Ranges
